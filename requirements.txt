@@ -1,0 +1,11 @@
+streamlit
+pymupdf
+spacy
+scikit-learn
+pandas
+numpy
+xgboost
+torch
+transformers
+
+

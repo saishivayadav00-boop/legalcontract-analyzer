@@ -1,0 +1,640 @@
+{
+  "version": "v1.0",
+  "data": [
+    {
+      "title": "CUAD Contract Corpus",
+      "paragraphs": [
+        {
+          "context": "Either party may terminate this agreement upon 30 days written notice to the other party.",
+          "qas": [
+            {
+              "id": "q_0",
+              "question": "Highlight parts related to Termination",
+              "answers": [
+                {
+                  "text": "Either party may terminate this agreement upon 30 days written notice to the other party.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "This Agreement shall terminate automatically upon material breach by either party.",
+          "qas": [
+            {
+              "id": "q_1",
+              "question": "Highlight parts related to Termination",
+              "answers": [
+                {
+                  "text": "This Agreement shall terminate automatically upon material breach by either party.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Company reserves the right to terminate this contract immediately if Service Provider fails to deliver.",
+          "qas": [
+            {
+              "id": "q_2",
+              "question": "Highlight parts related to Termination",
+              "answers": [
+                {
+                  "text": "Company reserves the right to terminate this contract immediately if Service Provider fails to deliver.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Upon termination of this Agreement, all licenses granted hereunder shall immediately expire.",
+          "qas": [
+            {
+              "id": "q_3",
+              "question": "Highlight parts related to Termination",
+              "answers": [
+                {
+                  "text": "Upon termination of this Agreement, all licenses granted hereunder shall immediately expire.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Client may cancel this order without penalty prior to written confirmation.",
+          "qas": [
+            {
+              "id": "q_4",
+              "question": "Highlight parts related to Termination",
+              "answers": [
+                {
+                  "text": "Client may cancel this order without penalty prior to written confirmation.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Either party may terminate immediately if the other becomes insolvent or files for bankruptcy.",
+          "qas": [
+            {
+              "id": "q_5",
+              "question": "Highlight parts related to Termination",
+              "answers": [
+                {
+                  "text": "Either party may terminate immediately if the other becomes insolvent or files for bankruptcy.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "The term of this Agreement shall be one year, renewable upon mutual written agreement.",
+          "qas": [
+            {
+              "id": "q_6",
+              "question": "Highlight parts related to Termination",
+              "answers": [
+                {
+                  "text": "The term of this Agreement shall be one year, renewable upon mutual written agreement.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Receiving Party agrees to maintain all Confidential Information in strict confidence.",
+          "qas": [
+            {
+              "id": "q_7",
+              "question": "Highlight parts related to Confidentiality",
+              "answers": [
+                {
+                  "text": "Receiving Party agrees to maintain all Confidential Information in strict confidence.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "The parties shall not disclose proprietary trade secrets to any third party without consent.",
+          "qas": [
+            {
+              "id": "q_8",
+              "question": "Highlight parts related to Confidentiality",
+              "answers": [
+                {
+                  "text": "The parties shall not disclose proprietary trade secrets to any third party without consent.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Confidential Information includes technical data, customer lists, and financial records.",
+          "qas": [
+            {
+              "id": "q_9",
+              "question": "Highlight parts related to Confidentiality",
+              "answers": [
+                {
+                  "text": "Confidential Information includes technical data, customer lists, and financial records.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Recipient shall protect disclosed secrecy with the same degree of care as its own information.",
+          "qas": [
+            {
+              "id": "q_10",
+              "question": "Highlight parts related to Confidentiality",
+              "answers": [
+                {
+                  "text": "Recipient shall protect disclosed secrecy with the same degree of care as its own information.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Nondisclosure obligations shall survive termination of this contract for 5 years.",
+          "qas": [
+            {
+              "id": "q_11",
+              "question": "Highlight parts related to Confidentiality",
+              "answers": [
+                {
+                  "text": "Nondisclosure obligations shall survive termination of this contract for 5 years.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Confidentiality restrictions do not apply to information in the public domain.",
+          "qas": [
+            {
+              "id": "q_12",
+              "question": "Highlight parts related to Confidentiality",
+              "answers": [
+                {
+                  "text": "Confidentiality restrictions do not apply to information in the public domain.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Neither party shall publish or disclose the financial terms of this deal.",
+          "qas": [
+            {
+              "id": "q_13",
+              "question": "Highlight parts related to Confidentiality",
+              "answers": [
+                {
+                  "text": "Neither party shall publish or disclose the financial terms of this deal.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Client shall pay all invoices within 30 days of receipt in US Dollars ($ USD).",
+          "qas": [
+            {
+              "id": "q_14",
+              "question": "Highlight parts related to Payment",
+              "answers": [
+                {
+                  "text": "Client shall pay all invoices within 30 days of receipt in US Dollars ($ USD).",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Payment for services rendered shall be due on the first business day of each month.",
+          "qas": [
+            {
+              "id": "q_15",
+              "question": "Highlight parts related to Payment",
+              "answers": [
+                {
+                  "text": "Payment for services rendered shall be due on the first business day of each month.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A late fee of 1.5% per month will be charged on all overdue invoice amounts.",
+          "qas": [
+            {
+              "id": "q_16",
+              "question": "Highlight parts related to Payment",
+              "answers": [
+                {
+                  "text": "A late fee of 1.5% per month will be charged on all overdue invoice amounts.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Consultant shall be reimbursed for reasonable travel expenses incurred during work.",
+          "qas": [
+            {
+              "id": "q_17",
+              "question": "Highlight parts related to Payment",
+              "answers": [
+                {
+                  "text": "Consultant shall be reimbursed for reasonable travel expenses incurred during work.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Service fees are exclusive of applicable sales tax, VAT, or local duties.",
+          "qas": [
+            {
+              "id": "q_18",
+              "question": "Highlight parts related to Payment",
+              "answers": [
+                {
+                  "text": "Service fees are exclusive of applicable sales tax, VAT, or local duties.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "All payments hereunder are non-refundable except as expressly set forth herein.",
+          "qas": [
+            {
+              "id": "q_19",
+              "question": "Highlight parts related to Payment",
+              "answers": [
+                {
+                  "text": "All payments hereunder are non-refundable except as expressly set forth herein.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Compensation shall be paid according to the milestones detailed in Exhibit A.",
+          "qas": [
+            {
+              "id": "q_20",
+              "question": "Highlight parts related to Payment",
+              "answers": [
+                {
+                  "text": "Compensation shall be paid according to the milestones detailed in Exhibit A.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "In no event shall either party be liable for consequential, indirect or special damages.",
+          "qas": [
+            {
+              "id": "q_21",
+              "question": "Highlight parts related to Liability",
+              "answers": [
+                {
+                  "text": "In no event shall either party be liable for consequential, indirect or special damages.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "The maximum aggregate liability of Provider shall not exceed the total fees paid.",
+          "qas": [
+            {
+              "id": "q_22",
+              "question": "Highlight parts related to Liability",
+              "answers": [
+                {
+                  "text": "The maximum aggregate liability of Provider shall not exceed the total fees paid.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Neither party limits its liability for gross negligence, willful misconduct, or fraud.",
+          "qas": [
+            {
+              "id": "q_23",
+              "question": "Highlight parts related to Liability",
+              "answers": [
+                {
+                  "text": "Neither party limits its liability for gross negligence, willful misconduct, or fraud.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Disclaimer of damages applies regardless of whether the claim arises in contract or tort.",
+          "qas": [
+            {
+              "id": "q_24",
+              "question": "Highlight parts related to Liability",
+              "answers": [
+                {
+                  "text": "Disclaimer of damages applies regardless of whether the claim arises in contract or tort.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Company's liability for direct loss is capped at one million dollars ($1,000,000).",
+          "qas": [
+            {
+              "id": "q_25",
+              "question": "Highlight parts related to Liability",
+              "answers": [
+                {
+                  "text": "Company's liability for direct loss is capped at one million dollars ($1,000,000).",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "In no event shall seller be liable for lost profits or loss of business opportunity.",
+          "qas": [
+            {
+              "id": "q_26",
+              "question": "Highlight parts related to Liability",
+              "answers": [
+                {
+                  "text": "In no event shall seller be liable for lost profits or loss of business opportunity.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Provider agrees to defend, indemnify and hold harmless Client against third party claims.",
+          "qas": [
+            {
+              "id": "q_27",
+              "question": "Highlight parts related to Indemnification",
+              "answers": [
+                {
+                  "text": "Provider agrees to defend, indemnify and hold harmless Client against third party claims.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Client shall indemnify Provider against damages arising from unauthorized content use.",
+          "qas": [
+            {
+              "id": "q_28",
+              "question": "Highlight parts related to Indemnification",
+              "answers": [
+                {
+                  "text": "Client shall indemnify Provider against damages arising from unauthorized content use.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Indemnified party must promptly notify the indemnifying party of any legal claim.",
+          "qas": [
+            {
+              "id": "q_29",
+              "question": "Highlight parts related to Indemnification",
+              "answers": [
+                {
+                  "text": "Indemnified party must promptly notify the indemnifying party of any legal claim.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Company will defend and hold harmless licensee against patent infringement suits.",
+          "qas": [
+            {
+              "id": "q_30",
+              "question": "Highlight parts related to Indemnification",
+              "answers": [
+                {
+                  "text": "Company will defend and hold harmless licensee against patent infringement suits.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "The indemnifying party shall control the legal defense and settlement of indemnified claims.",
+          "qas": [
+            {
+              "id": "q_31",
+              "question": "Highlight parts related to Indemnification",
+              "answers": [
+                {
+                  "text": "The indemnifying party shall control the legal defense and settlement of indemnified claims.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "This Agreement shall be governed by and construed in accordance with the laws of New York.",
+          "qas": [
+            {
+              "id": "q_32",
+              "question": "Highlight parts related to Governing Law",
+              "answers": [
+                {
+                  "text": "This Agreement shall be governed by and construed in accordance with the laws of New York.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Any dispute shall be submitted to the exclusive jurisdiction of the state courts in California.",
+          "qas": [
+            {
+              "id": "q_33",
+              "question": "Highlight parts related to Governing Law",
+              "answers": [
+                {
+                  "text": "Any dispute shall be submitted to the exclusive jurisdiction of the state courts in California.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "The parties hereby submit to the personal jurisdiction and venue of the courts of Delaware.",
+          "qas": [
+            {
+              "id": "q_34",
+              "question": "Highlight parts related to Governing Law",
+              "answers": [
+                {
+                  "text": "The parties hereby submit to the personal jurisdiction and venue of the courts of Delaware.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "This contract is subject to the governing laws of the Commonwealth of Massachusetts.",
+          "qas": [
+            {
+              "id": "q_35",
+              "question": "Highlight parts related to Governing Law",
+              "answers": [
+                {
+                  "text": "This contract is subject to the governing laws of the Commonwealth of Massachusetts.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Any claims arising under this Agreement shall be resolved through binding arbitration in London.",
+          "qas": [
+            {
+              "id": "q_36",
+              "question": "Highlight parts related to Governing Law",
+              "answers": [
+                {
+                  "text": "Any claims arising under this Agreement shall be resolved through binding arbitration in London.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Employee covenants not to engage in competing business during the term and for 1 year after.",
+          "qas": [
+            {
+              "id": "q_37",
+              "question": "Highlight parts related to Non-Compete",
+              "answers": [
+                {
+                  "text": "Employee covenants not to engage in competing business during the term and for 1 year after.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Party agrees not to solicit employees or customers of the other party for 24 months.",
+          "qas": [
+            {
+              "id": "q_38",
+              "question": "Highlight parts related to Non-Compete",
+              "answers": [
+                {
+                  "text": "Party agrees not to solicit employees or customers of the other party for 24 months.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Contractor shall not directly or indirectly compete with the Client in the restricted territory.",
+          "qas": [
+            {
+              "id": "q_39",
+              "question": "Highlight parts related to Non-Compete",
+              "answers": [
+                {
+                  "text": "Contractor shall not directly or indirectly compete with the Client in the restricted territory.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Covenant not to compete shall apply across North America for the duration of this Agreement.",
+          "qas": [
+            {
+              "id": "q_40",
+              "question": "Highlight parts related to Non-Compete",
+              "answers": [
+                {
+                  "text": "Covenant not to compete shall apply across North America for the duration of this Agreement.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Neither party shall recruit key management personnel from the other party during term.",
+          "qas": [
+            {
+              "id": "q_41",
+              "question": "Highlight parts related to Non-Compete",
+              "answers": [
+                {
+                  "text": "Neither party shall recruit key management personnel from the other party during term.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
